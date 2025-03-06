@@ -17,7 +17,7 @@ double num7 = Convert.ToInt32(Console.ReadLine());
 double mun8 = Convert.ToInt32(Console.ReadLine());
 double division = num7 / num8;
 Console.WriteLIne($"Result: {division}");
-
+int result = num1-num2;
 
 
 
